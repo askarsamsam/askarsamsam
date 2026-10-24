@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Samsam! 👋
 
-<!--
-**askarsamsam/askarsamsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Designer & Developer
 
-Here are some ideas to get you started:
+I'm a student learning web design and development.
+I enjoy creating websites that are simple,
+creative, and user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills I'm Learning
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UI/UX Design
+
+### 🌱 Currently Working On
+- Building my personal portfolio
+- Improving my front-end development skills
+- Exploring new design techniques
+
+### 🌐 My Portfolio
+[Visit My Portfolio]((https://samsam-portfolio.netlify.app/))
+
+### 📫 Connect With Me
+Feel free to explore my projects!
+
